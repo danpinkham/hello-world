@@ -1,2 +1,4 @@
 # hello-world
-my first github repository (stepping thru tutorial)
+my first github repository
+
+Name: Dan
